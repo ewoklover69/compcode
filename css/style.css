@@ -1,0 +1,67 @@
+/* this is a comment */
+
+body {
+    background-color:rgb(253, 168, 225);
+    margin: 50px;
+}
+
+header {
+    color: rgb(230, 234, 240); 
+    background-color: rgba(32, 163, 172, 0.938);
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px;
+    border-color: rgb(231, 27, 231);
+    border-style: solid;
+    border-image: linear-gradient(0deg, rgb(236, 71, 71) 0%, rgb(245, 136, 182) 56%, rgb(247, 181, 82) 100%) 1;
+}
+
+a {
+    color: rgb(230, 234, 240);
+}
+
+a:hover {
+    color: purple;
+}
+
+.webtitle {
+    font-size: x-large;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#description {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.container {
+    color: rgb(230, 234, 240);
+
+    font-weight: normal;
+    font-style: normal;
+    line-height: 22px;
+    margin: 0 auto;
+    max-width: 1300px; 
+    max-height: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url(../img/sunsetp.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+}
+
+li a {
+    color: rgb(230, 234, 240);
+}
+
+li a:hover {
+    color: purple;
+}
+footer {
+    color: purple;
+}
