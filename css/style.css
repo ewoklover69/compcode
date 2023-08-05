@@ -62,6 +62,15 @@ li a {
 li a:hover {
     color: purple;
 }
+
+li {
+    padding-bottom: 10px;
+}
+
 footer {
     color: purple;
+}
+
+ol {
+    padding-top: 10px;
 }
